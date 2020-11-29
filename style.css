@@ -1,0 +1,56 @@
+body {
+	background: #CCCCCC
+}
+
+h1 {
+	text-align: center; font-size: 55px; background: #FF4500;
+	font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.div1 {
+	text-align: center;
+}
+.hey {
+	font-size: 40px;;
+	font-style: normal;
+    font-weight: bold;
+	text-decoration: none;
+	color: black;
+}
+
+h2 {
+	text-align: center; font-size: 45px; background: #0000FF; color: white;
+}
+
+p {
+		text-align: center; font-size: 30px
+
+}
+
+img{
+	width: 100%;
+}
+
+#missao {
+	font-size: 30px;
+}
+
+strong {
+	color: white;
+}
+
+
+.itens {
+	font-style: italic;
+	font-size: 40px;
+	text-align: center;
+}
+
+
+
+
+
+
+
